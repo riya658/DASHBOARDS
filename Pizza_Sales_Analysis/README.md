@@ -49,7 +49,7 @@ The Pizza Sales Analysis dashboard provided the restaurant with valuable insight
 
 - Regional and Segment Analysis: The filter section suggests that the dashboard can analyze data based on region and customer segments (e.g., Central, East, South, West, Consumer, Corporate, Home Office). This could provide more tailored insights when applied.
 
-## Recommendations:
+## Recommendations
 - Focus on High-Performing Days: Increase marketing efforts and promotions on weekends, especially Fridays, to capitalize on peak ordering times.
 
 - Seasonal Promotions: Develop special promotions for slower months like December to boost sales. Leverage the high order months (May and July) with targeted campaigns to maintain the momentum.
