@@ -34,4 +34,30 @@ The Pizza Sales Analysis dashboard provided the restaurant with valuable insight
 
   
 ## Conclusion
-The Pizza Sales Analysis dashboard project successfully met its objectives by providing actionable insights that helped the restaurant optimize its operations and marketing strategies. The interactive and dynamic nature of the Power BI dashboard enabled stakeholders to make data-driven decisions, ultimately leading to an increase in sales and improved customer satisfaction. This project demonstrated my ability to leverage data analytics and visualization tools to drive business improvements and deliver tangible results.
+1.Revenue Insights: The total revenue of 694.33K and an average order value of 38.34 indicate a strong performance in pizza sales. The Classic, Pepperoni, Barbecue, Hawaiian, and Thai pizzas are the top revenue generators, each contributing significantly to the total revenue.
+
+2. Sales Volume: With 42,096 pizzas sold across 18,111 orders, the average of 2.32 pizzas per order shows that customers typically order more than one pizza per transaction.
+
+3. Order Trends:
+
+- Daily Trends: Orders peak on Fridays, suggesting that marketing efforts and promotions could be focused on weekends to maximize sales.
+- Monthly Trends: The months of May and July show the highest order volumes, possibly due to holidays or promotional events. December has the lowest order volume, which might need a review of marketing strategies during this period.
+4.Category and Size Preferences:
+
+- Pizza Categories: The sales distribution is relatively balanced among different categories, with Chicken slightly leading.
+- Pizza Sizes: Large pizzas are the most popular, indicating customer preference for larger portions.
+- Underperforming Pizzas: The Chicken, Italian, Spinach, California, and Brie pizzas are the lowest in revenue, which may require a review of their recipes, pricing, or promotional strategies to boost their sales.
+
+- Regional and Segment Analysis: The filter section suggests that the dashboard can analyze data based on region and customer segments (e.g., Central, East, South, West, Consumer, Corporate, Home Office). This could provide more tailored insights when applied.
+
+## Recommendations:
+- Focus on High-Performing Days: Increase marketing efforts and promotions on weekends, especially Fridays, to capitalize on peak ordering times.
+
+- Seasonal Promotions: Develop special promotions for slower months like December to boost sales. Leverage the high order months (May and July) with targeted campaigns to maintain the momentum.
+
+- Review Low-Performing Pizzas: Analyze the reasons behind the lower sales of certain pizzas and consider modifications in recipes, pricing, or marketing strategies.
+
+- Optimize Pizza Sizes: Given the preference for large pizzas, ensure sufficient stock and consider bundle deals to encourage higher sales.
+
+- Segmented Marketing: Utilize the filters to conduct a segmented analysis and develop targeted marketing strategies for different regions and customer segments.
+
