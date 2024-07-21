@@ -21,7 +21,8 @@ The HR Attrition Dashboard is designed to help HR professionals and managers ana
 The dataset used for this analysis is on [Kaggle](https://www.kaggle.com/code/maryamnoroozi68/ibm-hr-attrition-analysis-98-model-accuracy/input).
 
 ## Visual 
-![image](https://github.com/user-attachments/assets/d7158d84-b54a-4b53-87a5-55cdbbcd8931)
+![image](https://github.com/user-attachments/assets/f36d22a2-d1c2-4f8c-8256-d91fe10dc284)
+
 
 ## Key Metrics
 - Total Employees: 1,470
@@ -67,4 +68,34 @@ The dataset used for this analysis is on [Kaggle](https://www.kaggle.com/code/ma
 - Focus on Younger Workforce: The highest attrition is in the 28-40 age group, indicating a need for engagement strategies for mid-career employees.
 - Department-Specific Interventions: Research & Development requires focused efforts to understand and mitigate attrition causes.
 - Support for Entry-Level Employees: High attrition at entry-level suggests a need for better onboarding and career development programs.
+## Conclusions
+- Attrition by Job Role
+Sales Executives face the highest attrition, indicating potential issues in this role that need to be addressed, such as job satisfaction, workload, or incentives.
 
+- Job Satisfaction
+A significant number of employees are satisfied or very satisfied, but there is still a considerable number who are dissatisfied, suggesting areas for improvement in employee engagement and satisfaction.
+- Age Demographics
+The majority of attrition occurs in the 26-40 age group, followed by the 41-60 age group, indicating that mid-career employees are more likely to leave.
+- Departmental Insights
+  Research & Development has the highest attrition, which could indicate high stress or dissatisfaction within this department.
+- Work-Life Balance
+Most employees report having a very good or good work-life balance, but there is room to improve for those with average or excellent ratings.
+- Job Level Analysis
+High attrition at the entry level and junior level suggests that newer employees may be struggling with integration or job satisfaction, while executive-level attrition is relatively low.
+
+## Recommendations:
+- Focus on High-Attrition Roles:
+Conduct detailed reviews and provide support or incentives for roles with high attrition, especially Sales Executives and Research Scientists.
+- Improve Job Satisfaction
+Implement initiatives to enhance job satisfaction, such as career development programs, employee recognition, and feedback mechanisms.
+- Targeted Retention Strategies for Age Groups
+Develop retention strategies tailored to the needs and preferences of mid-career employees (26-40 years) to reduce attrition in this group.
+- Departmental Interventions
+Address specific issues within the Research & Development department through targeted interventions, such as workload management and team-building activities.
+- Enhance Work-Life Balance
+Continue promoting work-life balance initiatives and consider additional support for employees who rate their balance as average or excellent.
+- Support for Entry-Level Employees
+Provide enhanced onboarding and mentoring programs to help entry-level employees integrate better and feel supported in their roles.
+
+## Result
+The HR Attrition Report has provided valuable insights into the factors influencing employee attrition, enabling the organization to develop targeted strategies to improve retention, job satisfaction, and overall employee engagement. Implementing the recommended actions will likely result in a more satisfied and stable workforce, reducing overall attrition rates and improving organizational performance.
