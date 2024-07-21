@@ -35,7 +35,7 @@ These insights enabled the ecommerce business to make informed decisions and opt
 
 ![image](https://github.com/riya658/Ecommerce_Sales_Analysis_Dashboard/assets/73232363/7f9effb7-2948-49c2-a9a3-5f1cd28478f6)
 
-## Conclusions:
+## Conclusions
 1. Positive Sales and Quantity Growth: The business has seen significant year-over-year growth in sales (21.51%) and quantity sold (24.77%), indicating strong market demand and effective sales strategies.
 
 2. Profit Growth but Declining Margin: Although there is a positive growth in profit (9.36%), the profit margin has declined by 9.95%, suggesting that costs have increased or pricing strategies need adjustment.
@@ -48,7 +48,7 @@ These insights enabled the ecommerce business to make informed decisions and opt
 
 6. Product Focus: Subcategories like Storage, Phones, and Machines are the top performers, which suggests these products should continue to be a focus for sales and marketing efforts.
 
-## Recommendations:
+## Recommendations
 1. Address Profit Margin: Investigate the reasons behind the declining profit margin and explore cost-saving measures or pricing strategy adjustments.
 
 2. Target High-Performing States: Focus marketing and sales efforts on states with higher sales to maximize revenue.
