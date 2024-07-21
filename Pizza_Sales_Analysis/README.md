@@ -34,19 +34,20 @@ The Pizza Sales Analysis dashboard provided the restaurant with valuable insight
 
   
 ## Conclusion
-1.Revenue Insights: The total revenue of 694.33K and an average order value of 38.34 indicate a strong performance in pizza sales. The Classic, Pepperoni, Barbecue, Hawaiian, and Thai pizzas are the top revenue generators, each contributing significantly to the total revenue.
+1. Revenue Insights: The total revenue of 694.33K and an average order value of 38.34 indicate a strong performance in pizza sales. The Classic, Pepperoni, Barbecue, Hawaiian, and Thai 
+   pizzas are the top revenue generators, each contributing significantly to the total revenue.
 
 2. Sales Volume: With 42,096 pizzas sold across 18,111 orders, the average of 2.32 pizzas per order shows that customers typically order more than one pizza per transaction.
 
 3. Order Trends:
-
 - Daily Trends: Orders peak on Fridays, suggesting that marketing efforts and promotions could be focused on weekends to maximize sales.
 - Monthly Trends: The months of May and July show the highest order volumes, possibly due to holidays or promotional events. December has the lowest order volume, which might need a review of marketing strategies during this period.
-4.Category and Size Preferences:
+4. Category and Size Preferences:
 
 - Pizza Categories: The sales distribution is relatively balanced among different categories, with Chicken slightly leading.
 - Pizza Sizes: Large pizzas are the most popular, indicating customer preference for larger portions.
-- Underperforming Pizzas: The Chicken, Italian, Spinach, California, and Brie pizzas are the lowest in revenue, which may require a review of their recipes, pricing, or promotional strategies to boost their sales.
+- Underperforming Pizzas: The Chicken, Italian, Spinach, California, and Brie pizzas are the lowest in revenue, which may require a review of their recipes, pricing, or promotional 
+ strategies to boost their sales.
 
 - Regional and Segment Analysis: The filter section suggests that the dashboard can analyze data based on region and customer segments (e.g., Central, East, South, West, Consumer, Corporate, Home Office). This could provide more tailored insights when applied.
 
