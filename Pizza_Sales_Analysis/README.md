@@ -6,18 +6,16 @@ The aim of this project was to create a comprehensive dashboard to analyze pizza
 The task was to develop a Pizza Sales Analysis dashboard using Power BI. The dashboard needed to visualize the sales data, highlight trends, identify popular items, and provide insights into sales performance across different time periods and customer segments.
 
 ## Action
- Data Collection and Preparation:
+1. Data Collection and Preparation:
 - Gathered sales data from the restaurant's point-of-sale system, including information on sales transactions, customer demographics, product details, and sales timestamps.
 - Cleaned and preprocessed the data using Python (Pandas) to handle missing values, correct data formats, and create derived columns for analysis.
 
 2. Dashboard Development:
-
 - Utilized Power BI to create interactive visualizations, including bar charts, line graphs, pie charts, and heat maps, to represent various sales metrics.
 - Designed key metrics such as total sales, average order value, sales by product category, sales by time of day, and customer demographics.
 - Implemented filters and slicers to enable dynamic exploration of data based on different criteria such as date ranges, product categories, and customer segments.
 
-3.Insights and Analysis:
-
+3. Insights and Analysis:
 - Analyzed sales trends to identify peak sales periods and popular menu items.
 - Investigated customer preferences based on demographic data to tailor marketing strategies.
 - Monitored the impact of promotions and discounts on sales performance.
