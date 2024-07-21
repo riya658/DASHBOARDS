@@ -28,9 +28,8 @@ The Pizza Sales Analysis dashboard provided the restaurant with valuable insight
 - Understanding of customer preferences for pizza categories and sizes.
 - The ability to track the effectiveness of promotional activities.
 
-  ![Dashboard](https://github.com/user-attachments/assets/de3f7532-5a7a-48d6-a88e-52034f3e419e)
-
-  
+![image](https://github.com/user-attachments/assets/6858dd9d-4e24-4ffb-8f2c-734993dcfc08)
+ 
 ## Conclusion
 1. Revenue Insights
 - The total revenue of 694.33K and an average order value of 38.34 indicate a strong performance in pizza sales. The Classic, Pepperoni, Barbecue, Hawaiian, and Thai 
