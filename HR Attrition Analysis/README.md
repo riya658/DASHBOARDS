@@ -60,6 +60,7 @@ The dataset used for this analysis is on [Kaggle](https://www.kaggle.com/code/ma
 - Entry-level employees exhibit the highest attrition.
 - Attrition decreases as job level increases, with the lowest attrition among Senior Executives.
 
+
 ## Conclusions
 - High Attrition in Sales Executives and Research Scientists: Targeted retention strategies are necessary for these roles.
 - Job Satisfaction and Work-Life Balance: Improving job satisfaction and work-life balance can potentially reduce attrition.
