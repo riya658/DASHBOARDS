@@ -63,12 +63,6 @@ The dataset used for this analysis is on [Kaggle](https://www.kaggle.com/code/ma
 
 
 ## Conclusions
-- High Attrition in Sales Executives and Research Scientists: Targeted retention strategies are necessary for these roles.
-- Job Satisfaction and Work-Life Balance: Improving job satisfaction and work-life balance can potentially reduce attrition.
-- Focus on Younger Workforce: The highest attrition is in the 28-40 age group, indicating a need for engagement strategies for mid-career employees.
-- Department-Specific Interventions: Research & Development requires focused efforts to understand and mitigate attrition causes.
-- Support for Entry-Level Employees: High attrition at entry-level suggests a need for better onboarding and career development programs.
-## Conclusions
 - Attrition by Job Role
 Sales Executives face the highest attrition, indicating potential issues in this role that need to be addressed, such as job satisfaction, workload, or incentives.
 
