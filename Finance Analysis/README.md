@@ -25,6 +25,8 @@ The dashboard provided several key insights into the financial performance of th
 - Store 1 was the highest revenue-generating store, significantly outperforming the other stores.
 - The month-wise analysis revealed that the end of the year (November and December) saw peak revenues, suggesting a seasonal impact on sales.
 - Product-wise revenue showed that Smartphones and Accessories were the top-performing categories, while Laptops had the least revenue.
+
+  
   ![image](https://github.com/user-attachments/assets/316d858e-847b-4829-9f57-4917d68371df)
 
 
